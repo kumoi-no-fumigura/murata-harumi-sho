@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/murata-harumi-sho",
  "yomi": "むらたはるみにこたうるしょ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（書簡）",
+  "era": "江戸後期",
+  "author": "本居大平（稲掛大平、1756〜1833）",
+  "desc": "村田春海の書簡（贈稲掛大平書）に本居大平が答えた返書。真淵の歌の教えについての世の誤解などをめぐって論じる。大平の草案を本居家から借りて写したものという。"
+ },
  "editions": [
   {
    "pid": "993380",
